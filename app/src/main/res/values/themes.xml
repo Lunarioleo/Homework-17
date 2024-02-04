@@ -6,6 +6,9 @@
         <item name="colorPrimary">@color/grey</item>
         <item name="colorPrimaryVariant">@color/grey</item>
     </style>
+    <style name="circle">
+        <item name="cornerSize">15%</item>
+    </style>
 
     <style name="Theme.PlantsHandBook" parent="Base.Theme.PlantsHandBook" />
 </resources>
